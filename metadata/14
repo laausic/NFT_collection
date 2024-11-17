@@ -1,0 +1,24 @@
+{
+    "name": "Zadar Sea Organs",
+    "description": "Digital artwork of the Zadar Sea Organs, capturing the mesmerizing sounds and unique design of this musical marvel by the Adriatic Sea.",
+    "image": "ipfs://QmaTwC5tDeQZ83PcYYEgCff3DFT3LU2rj2G1upPewQX8cn/14.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Zadar"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Art Installation"
+      },
+      {
+        "trait_type": "Era",
+        "value": "Modern"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Unique"
+      }
+    ]
+  }
+  

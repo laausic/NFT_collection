@@ -1,0 +1,24 @@
+{
+    "name": "Trakošćan Castle",
+    "description": "Digital artwork of Trakosćan Castle, showcasing its majestic architecture and serene surroundings in Croatia's Hrvatsko Zagorje region.",
+    "image": "ipfs://QmaTwC5tDeQZ83PcYYEgCff3DFT3LU2rj2G1upPewQX8cn/12.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Hrvatsko Zagorje"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Castle"
+      },
+      {
+        "trait_type": "Era",
+        "value": "Gothic-Renaissance"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      }
+    ]
+  }
+  

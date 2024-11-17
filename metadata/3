@@ -1,0 +1,24 @@
+{
+    "name": "Dubrovnik Old Town",
+    "description": "Digital artwork of Dubrovnik’s fortified city, capturing its medieval charm, well-preserved architecture, and historical significance along the Adriatic coast.",
+    "image": "ipfs://QmaTwC5tDeQZ83PcYYEgCff3DFT3LU2rj2G1upPewQX8cn/3.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Dubrovnik"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Historical Landmark"
+      },
+      {
+        "trait_type": "Era",
+        "value": "Medieval"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Iconic"
+      }
+    ]
+  }
+  

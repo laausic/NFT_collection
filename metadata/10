@@ -1,0 +1,24 @@
+{
+    "name": "Pula Arena",
+    "description": "Digital artwork of Pula Arena, capturing the grandeur and historical significance of this well-preserved Roman amphitheater in Croatia.",
+    "image": "ipfs://QmaTwC5tDeQZ83PcYYEgCff3DFT3LU2rj2G1upPewQX8cn/10.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Pula"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Roman Amphitheater"
+      },
+      {
+        "trait_type": "Era",
+        "value": "Ancient"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Historic"
+      }
+    ]
+  }
+  

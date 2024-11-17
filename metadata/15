@@ -1,0 +1,24 @@
+{
+    "name": "Zlatni Rat Beach",
+    "description": "Digital artwork of Zlatni Rat Beach, showcasing its unique shape and crystal-clear waters on the island of Brač.",
+    "image": "ipfs://QmaTwC5tDeQZ83PcYYEgCff3DFT3LU2rj2G1upPewQX8cn/15.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Brač"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Beach"
+      },
+      {
+        "trait_type": "Era",
+        "value": "Natural"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Iconic"
+      }
+    ]
+  }
+  

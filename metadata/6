@@ -1,0 +1,24 @@
+{
+    "name": "Krka National Park",
+    "description": "Digital artwork of Krka National Park, showcasing its majestic waterfalls, lush landscapes, and diverse flora and fauna in Croatia.",
+    "image": "ipfs://QmaTwC5tDeQZ83PcYYEgCff3DFT3LU2rj2G1upPewQX8cn/6.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Krka National Park"
+      },
+      {
+        "trait_type": "Type",
+        "value": "National Park"
+      },
+      {
+        "trait_type": "Era",
+        "value": "Natural"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Iconic"
+      }
+    ]
+  }
+  

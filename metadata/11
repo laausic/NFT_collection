@@ -1,0 +1,24 @@
+{
+    "name": "Stari Grad Plain",
+    "description": "Digital artwork of Stari Grad Plain, highlighting its ancient agricultural landscape and rich history dating back to the Greek colonists.",
+    "image": "ipfs://QmaTwC5tDeQZ83PcYYEgCff3DFT3LU2rj2G1upPewQX8cn/11.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Hvar"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Cultural Landscape"
+      },
+      {
+        "trait_type": "Era",
+        "value": "Ancient"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Heritage"
+      }
+    ]
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "name": "Plitvice Lakes",
+    "description": "Digital artwork of Plitvice Lakes, showcasing its cascading waterfalls, crystal-clear lakes, and lush greenery in Croatia's oldest and largest national park.",
+    "image": "ipfs://QmaTwC5tDeQZ83PcYYEgCff3DFT3LU2rj2G1upPewQX8cn/9.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Plitvice Lakes National Park"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Natural Landscape"
+      },
+      {
+        "trait_type": "Era",
+        "value": "Natural"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Iconic"
+      }
+    ]
+  }
+  

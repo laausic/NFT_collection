@@ -1,0 +1,24 @@
+{
+    "name": "Ban Josip Jelačić Square",
+    "description": "A stunning digital artwork of Ban Josip Jelačić Square, the central square in Zagreb, Croatia, known for its historical significance, vibrant atmosphere, and iconic equestrian statue.",
+    "image": "ipfs://QmaTwC5tDeQZ83PcYYEgCff3DFT3LU2rj2G1upPewQX8cn/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Zagreb"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Central Square"
+      },
+      {
+        "trait_type": "Era",
+        "value": "Modern"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Historic"
+      }
+    ]
+  }
+  

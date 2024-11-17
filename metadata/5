@@ -1,0 +1,24 @@
+{
+    "name": "Fortress of Klis",
+    "description": "Digital artwork of the Fortress of Klis, showcasing its strategic location, medieval architecture, and historical significance in Croatia.",
+    "image": "ipfs://QmaTwC5tDeQZ83PcYYEgCff3DFT3LU2rj2G1upPewQX8cn/5.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Klis"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Fortress"
+      },
+      {
+        "trait_type": "Era",
+        "value": "Medieval"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Historic"
+      }
+    ]
+  }
+  

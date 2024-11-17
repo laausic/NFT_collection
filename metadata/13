@@ -1,0 +1,24 @@
+{
+    "name": "Trogir Old Town",
+    "description": "Digital artwork of Trogir Old Town, capturing its rich history, well-preserved medieval architecture, and vibrant coastal charm.",
+    "image": "ipfs://QmaTwC5tDeQZ83PcYYEgCff3DFT3LU2rj2G1upPewQX8cn/13.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Trogir"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Historical Landmark"
+      },
+      {
+        "trait_type": "Era",
+        "value": "Medieval"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Historic"
+      }
+    ]
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "name": "Euphrasian Basilica",
+    "description": "Digital artwork of the Euphrasian Basilica, showcasing its Byzantine architecture, intricate mosaics, and historical significance in Poreč, Croatia.",
+    "image": "ipfs://QmaTwC5tDeQZ83PcYYEgCff3DFT3LU2rj2G1upPewQX8cn/4.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Poreč"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Basilica"
+      },
+      {
+        "trait_type": "Era",
+        "value": "Byzantine"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Historic"
+      }
+    ]
+  }
+  

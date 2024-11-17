@@ -1,0 +1,24 @@
+{
+    "name": "Lastovo Islands",
+    "description": "Digital artwork of Lastovo Islands, capturing the pristine beauty of this remote archipelago in Croatia, known for its untouched nature and crystal-clear waters.",
+    "image": "ipfs://QmaTwC5tDeQZ83PcYYEgCff3DFT3LU2rj2G1upPewQX8cn/7.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Lastovo Islands"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Archipelago"
+      },
+      {
+        "trait_type": "Era",
+        "value": "Natural"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Scenic"
+      }
+    ]
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "name": "Peristil Split",
+    "description": "Digital artwork of Peristil, the central square of Diocletian's Palace in Split, Croatia, showcasing its ancient columns and historical significance.",
+    "image": "ipfs://QmaTwC5tDeQZ83PcYYEgCff3DFT3LU2rj2G1upPewQX8cn/8.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Split"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Historical Landmark"
+      },
+      {
+        "trait_type": "Era",
+        "value": "Ancient Roman"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Historic"
+      }
+    ]
+  }
+  

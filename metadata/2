@@ -1,0 +1,24 @@
+{
+    "name": "Biokovo Nature Park",
+    "description": "Digital artwork of Biokovo Nature Park, showcasing its rugged limestone peaks, diverse flora and fauna, and panoramic views of the Dalmatian coast.",
+    "image": "ipfs://QmaTwC5tDeQZ83PcYYEgCff3DFT3LU2rj2G1upPewQX8cn/2.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Biokovo Nature Park"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Nature Park"
+      },
+      {
+        "trait_type": "Era",
+        "value": "Natural"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Scenic"
+      }
+    ]
+  }
+  
